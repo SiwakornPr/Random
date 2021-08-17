@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run random_code.py
+web: sh setup.sh && streamlit run random_code_II.py
