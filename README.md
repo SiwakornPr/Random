@@ -12,3 +12,6 @@ probability value in each choice.
 >To random your choices, There is a RANDOM CONFIRM button to start the process. The sample result shall be as follow.
 <img width="835" alt="ภาพหน้าจอ 2564-08-17 เวลา 20 40 50" src="https://user-images.githubusercontent.com/69446392/129739243-83f69cef-1394-4a65-919d-cca9ccee61c1.png">
 
+>In addition, the number of results is 2. The output will be two and the probability is changed as well.
+<img width="797" alt="ภาพหน้าจอ 2564-08-17 เวลา 20 41 56" src="https://user-images.githubusercontent.com/69446392/129741208-33137d18-c075-4a50-8cc4-066856c767e7.png">
+
