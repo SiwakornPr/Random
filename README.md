@@ -14,4 +14,4 @@ probability value in each choice.
 
 >In addition, the number of results is 2. The output will be two and the probability is changed as well.
 <img width="797" alt="ภาพหน้าจอ 2564-08-17 เวลา 20 41 56" src="https://user-images.githubusercontent.com/69446392/129741208-33137d18-c075-4a50-8cc4-066856c767e7.png">
-`<mark>` element here instead.
+Created by SiwakornPr
