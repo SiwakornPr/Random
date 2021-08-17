@@ -1,2 +1,4 @@
 streamlit==0.66.0
 stqdm==0.0.4
+random2==1.0.1
+time
